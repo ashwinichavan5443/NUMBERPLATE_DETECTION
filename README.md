@@ -13,5 +13,6 @@ distribute data in 80% - 20%
 <br>
 leave everything as it is and create zip file of this folder and upload it on drive<br>
 <br>
-After completing all the configurations run the following colab book for traning custom model<br> 
+<br>
+<b>Step 3 : After completing all the configurations run the following colab book for traning custom model</b><br> 
 ssdlite_objectdetection_traning.ipynb
