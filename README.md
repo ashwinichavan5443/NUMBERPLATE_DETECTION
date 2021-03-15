@@ -4,7 +4,7 @@
 <b>Step 1: Collect dataset</b><br>
 -dataset folder structure should be like:<br>
 -images|<br>
-       |-train<br>
-       |-test  
+ <t>   |-train<br>
+ <t>   |-test  
        
 
