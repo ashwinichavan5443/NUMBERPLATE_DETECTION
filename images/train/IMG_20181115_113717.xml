@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20181115_113717.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\IMG_20181115_113717.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2149</width>
+		<height>869</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>122</ymin>
+			<xmax>2025</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+</annotation>

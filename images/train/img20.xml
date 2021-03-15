@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img20.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\img20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doublelinenumberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>10</ymin>
+			<xmax>251</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

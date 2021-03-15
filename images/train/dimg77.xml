@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dimg77.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\dimg77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>625</ymin>
+			<xmax>722</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>

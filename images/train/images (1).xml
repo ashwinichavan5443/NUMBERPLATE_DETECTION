@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (1).jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\images (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>114</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>19</ymin>
+			<xmax>259</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2011_Maruti_Swift_Spied.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\2011_Maruti_Swift_Spied.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>92</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>13</ymin>
+			<xmax>277</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

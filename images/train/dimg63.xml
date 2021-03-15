@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dimg63.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\test\customdetector\images\train\dimg63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>676</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doublelinenumberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>74</ymin>
+			<xmax>617</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

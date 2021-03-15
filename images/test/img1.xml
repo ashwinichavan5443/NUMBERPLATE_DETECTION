@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>img1.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\numberplatedetection\test\img1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1096</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>739</ymin>
+			<xmax>806</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

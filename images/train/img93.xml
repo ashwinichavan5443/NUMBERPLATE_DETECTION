@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>img93.jpg</filename>
+	<path>C:\Users\Krishna\Desktop\numberplatedetection\images\train1\img93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>401</ymin>
+			<xmax>752</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>
