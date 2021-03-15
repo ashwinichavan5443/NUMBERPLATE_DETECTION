@@ -15,6 +15,5 @@ leave everything as it is and create zip file of this folder and upload it on dr
 <b>Step 3 : After completing all the configurations run the following colab book for traning custom model</b><br> 
 ssdlite_objectdetection_traning.ipynb
 <br>
-<br>
 <b><h3>OutPut:</h3></b><br>
 <img src="https://github.com/ashwinichavan5443/NUMBERPLATE_DETECTION/blob/master/result1.jpg"></img>
