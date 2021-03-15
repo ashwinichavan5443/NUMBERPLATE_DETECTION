@@ -10,7 +10,6 @@ distribute data in 80% - 20%
 <br>
 <br>
 <b>Step 2: Edit labelMap.pbtxt file according to objects we want to detect</b><br>
-<br>
 leave everything as it is and create zip file of this folder and upload it on drive<br>
 <br>
 <br>
