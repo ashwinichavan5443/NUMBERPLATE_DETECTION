@@ -18,4 +18,4 @@ ssdlite_objectdetection_traning.ipynb
 <b><h3>OutPut:</h3></b><br>
 <img src="https://github.com/ashwinichavan5443/NUMBERPLATE_DETECTION/blob/master/result1.jpg"></img><br>
 <p>For exctracting character from detected numberplate visit following git repository</p>
-<a href="https://github.com/ashwinichavan5443/Numberplate_character_recognition_using_Tesseract">https://github.com/ashwinichavan5443/Numberplate_character_recognition_using_Tesseract>Numberplate_character_recognition_using_Tesseract</a>
+https://github.com/ashwinichavan5443/Numberplate_character_recognition_using_Tesseract-
